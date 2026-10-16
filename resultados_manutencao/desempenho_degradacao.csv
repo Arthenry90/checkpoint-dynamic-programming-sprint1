@@ -1,0 +1,3 @@
+algoritmo,tempo_execucao_segundos,objetivo
+BFS,0.00010646800001268275,Menor quantidade de trechos
+Dijkstra,9.215199997925083e-05,Menor tempo de deslocamento

@@ -1,0 +1,13 @@
+estacao,quantidade_trechos,rota_bfs,tempo_total_minutos,rota_dijkstra
+Luz,8,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie -> República -> Luz,30,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie -> República -> Luz
+República,7,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie -> República,27,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie -> República
+Higienópolis-Mackenzie,6,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie,24,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie
+Paulista,5,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista,21,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista
+Oscar Freire,4,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire,18,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire
+Fradique Coutinho,3,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho,15,BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho
+Faria Lima,2,BASE_MANUTENCAO -> Pinheiros -> Faria Lima,12,BASE_MANUTENCAO -> Pinheiros -> Faria Lima
+Pinheiros,1,BASE_MANUTENCAO -> Pinheiros,8,BASE_MANUTENCAO -> Pinheiros
+Butantã,2,BASE_MANUTENCAO -> Pinheiros -> Butantã,13,BASE_MANUTENCAO -> Pinheiros -> Butantã
+São Paulo-Morumbi,3,BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi,17,BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi
+Vila Sônia,4,BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi -> Vila Sônia,21,BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi -> Vila Sônia
+Terminal Vila Sônia,5,BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi -> Vila Sônia -> Terminal Vila Sônia,24,BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi -> Vila Sônia -> Terminal Vila Sônia

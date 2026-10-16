@@ -1,0 +1,10 @@
+[
+    {
+        "escadas_planejadas": 9,
+        "tempo_servicos_e_deslocamentos_min": 442,
+        "retorno_base_min": 24,
+        "tempo_total_min": 466,
+        "tempo_disponivel_min": 480,
+        "aproveitamento_pct": 97.08
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "escada_id": "LUZ-ER15",
+        "estacao": "Vila Sônia",
+        "criticidade": 141,
+        "deslocamento_min": 21,
+        "servico_min": 30,
+        "total_min": 51
+    },
+    {
+        "escada_id": "PIN-ER25",
+        "estacao": "Fradique Coutinho",
+        "criticidade": 124,
+        "deslocamento_min": 20,
+        "servico_min": 30,
+        "total_min": 50
+    },
+    {
+        "escada_id": "BUT-ER06",
+        "estacao": "Fradique Coutinho",
+        "criticidade": 124,
+        "deslocamento_min": 0,
+        "servico_min": 30,
+        "total_min": 30
+    },
+    {
+        "escada_id": "PIN-ER15",
+        "estacao": "Pinheiros",
+        "criticidade": 123,
+        "deslocamento_min": 7,
+        "servico_min": 30,
+        "total_min": 37
+    },
+    {
+        "escada_id": "LUZ-ER05",
+        "estacao": "Luz",
+        "criticidade": 114,
+        "deslocamento_min": 22,
+        "servico_min": 30,
+        "total_min": 52
+    },
+    {
+        "escada_id": "REP-ER60",
+        "estacao": "Vila Sônia",
+        "criticidade": 107,
+        "deslocamento_min": 35,
+        "servico_min": 30,
+        "total_min": 65
+    },
+    {
+        "escada_id": "PIN-ER28",
+        "estacao": "Butantã",
+        "criticidade": 103,
+        "deslocamento_min": 8,
+        "servico_min": 30,
+        "total_min": 38
+    },
+    {
+        "escada_id": "VSO-ER05",
+        "estacao": "República",
+        "criticidade": 102,
+        "deslocamento_min": 24,
+        "servico_min": 30,
+        "total_min": 54
+    },
+    {
+        "escada_id": "LUZ-ER04",
+        "estacao": "Terminal Vila Sônia",
+        "criticidade": 98,
+        "deslocamento_min": 35,
+        "servico_min": 30,
+        "total_min": 65
+    }
+]

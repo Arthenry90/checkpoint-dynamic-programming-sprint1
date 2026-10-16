@@ -1,0 +1,12 @@
+[
+    {
+        "algoritmo": "BFS",
+        "tempo_execucao_segundos": 0.00010646800001268275,
+        "objetivo": "Menor quantidade de trechos"
+    },
+    {
+        "algoritmo": "Dijkstra",
+        "tempo_execucao_segundos": 9.215199997925083e-05,
+        "objetivo": "Menor tempo de deslocamento"
+    }
+]

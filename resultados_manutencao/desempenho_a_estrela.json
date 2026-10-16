@@ -1,0 +1,10 @@
+[
+    {
+        "algoritmo": "Dijkstra",
+        "tempo_medio_ms": 0.15568830501024422
+    },
+    {
+        "algoritmo": "A*",
+        "tempo_medio_ms": 0.6696789949933191
+    }
+]

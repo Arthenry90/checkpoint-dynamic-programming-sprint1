@@ -1,0 +1,10 @@
+escada_id,estacao,criticidade,deslocamento_min,servico_min,total_min
+LUZ-ER15,Vila Sônia,141,21,30,51
+PIN-ER25,Fradique Coutinho,124,20,30,50
+BUT-ER06,Fradique Coutinho,124,0,30,30
+PIN-ER15,Pinheiros,123,7,30,37
+LUZ-ER05,Luz,114,22,30,52
+REP-ER60,Vila Sônia,107,35,30,65
+PIN-ER28,Butantã,103,8,30,38
+VSO-ER05,República,102,24,30,54
+LUZ-ER04,Terminal Vila Sônia,98,35,30,65

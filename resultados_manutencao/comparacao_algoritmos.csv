@@ -1,0 +1,13 @@
+estacao,tempo_dijkstra,tempo_a_estrela,mesmo_custo,nos_expandidos_a_estrela
+Luz,30,30,True,9
+República,27,27,True,8
+Higienópolis-Mackenzie,24,24,True,7
+Paulista,21,21,True,6
+Oscar Freire,18,18,True,5
+Fradique Coutinho,15,15,True,4
+Faria Lima,12,12,True,3
+Pinheiros,8,8,True,2
+Butantã,13,13,True,3
+São Paulo-Morumbi,17,17,True,4
+Vila Sônia,21,21,True,5
+Terminal Vila Sônia,24,24,True,6

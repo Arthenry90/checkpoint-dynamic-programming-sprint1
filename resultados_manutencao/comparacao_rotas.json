@@ -1,0 +1,86 @@
+[
+    {
+        "estacao": "Luz",
+        "quantidade_trechos": 8,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie -> República -> Luz",
+        "tempo_total_minutos": 30,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie -> República -> Luz"
+    },
+    {
+        "estacao": "República",
+        "quantidade_trechos": 7,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie -> República",
+        "tempo_total_minutos": 27,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie -> República"
+    },
+    {
+        "estacao": "Higienópolis-Mackenzie",
+        "quantidade_trechos": 6,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie",
+        "tempo_total_minutos": 24,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista -> Higienópolis-Mackenzie"
+    },
+    {
+        "estacao": "Paulista",
+        "quantidade_trechos": 5,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista",
+        "tempo_total_minutos": 21,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire -> Paulista"
+    },
+    {
+        "estacao": "Oscar Freire",
+        "quantidade_trechos": 4,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire",
+        "tempo_total_minutos": 18,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho -> Oscar Freire"
+    },
+    {
+        "estacao": "Fradique Coutinho",
+        "quantidade_trechos": 3,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho",
+        "tempo_total_minutos": 15,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima -> Fradique Coutinho"
+    },
+    {
+        "estacao": "Faria Lima",
+        "quantidade_trechos": 2,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima",
+        "tempo_total_minutos": 12,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Faria Lima"
+    },
+    {
+        "estacao": "Pinheiros",
+        "quantidade_trechos": 1,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros",
+        "tempo_total_minutos": 8,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros"
+    },
+    {
+        "estacao": "Butantã",
+        "quantidade_trechos": 2,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Butantã",
+        "tempo_total_minutos": 13,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Butantã"
+    },
+    {
+        "estacao": "São Paulo-Morumbi",
+        "quantidade_trechos": 3,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi",
+        "tempo_total_minutos": 17,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi"
+    },
+    {
+        "estacao": "Vila Sônia",
+        "quantidade_trechos": 4,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi -> Vila Sônia",
+        "tempo_total_minutos": 21,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi -> Vila Sônia"
+    },
+    {
+        "estacao": "Terminal Vila Sônia",
+        "quantidade_trechos": 5,
+        "rota_bfs": "BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi -> Vila Sônia -> Terminal Vila Sônia",
+        "tempo_total_minutos": 24,
+        "rota_dijkstra": "BASE_MANUTENCAO -> Pinheiros -> Butantã -> São Paulo-Morumbi -> Vila Sônia -> Terminal Vila Sônia"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "estacao": "Luz",
+        "tempo_dijkstra": 30,
+        "tempo_a_estrela": 30,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 9
+    },
+    {
+        "estacao": "República",
+        "tempo_dijkstra": 27,
+        "tempo_a_estrela": 27,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 8
+    },
+    {
+        "estacao": "Higienópolis-Mackenzie",
+        "tempo_dijkstra": 24,
+        "tempo_a_estrela": 24,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 7
+    },
+    {
+        "estacao": "Paulista",
+        "tempo_dijkstra": 21,
+        "tempo_a_estrela": 21,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 6
+    },
+    {
+        "estacao": "Oscar Freire",
+        "tempo_dijkstra": 18,
+        "tempo_a_estrela": 18,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 5
+    },
+    {
+        "estacao": "Fradique Coutinho",
+        "tempo_dijkstra": 15,
+        "tempo_a_estrela": 15,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 4
+    },
+    {
+        "estacao": "Faria Lima",
+        "tempo_dijkstra": 12,
+        "tempo_a_estrela": 12,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 3
+    },
+    {
+        "estacao": "Pinheiros",
+        "tempo_dijkstra": 8,
+        "tempo_a_estrela": 8,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 2
+    },
+    {
+        "estacao": "Butantã",
+        "tempo_dijkstra": 13,
+        "tempo_a_estrela": 13,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 3
+    },
+    {
+        "estacao": "São Paulo-Morumbi",
+        "tempo_dijkstra": 17,
+        "tempo_a_estrela": 17,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 4
+    },
+    {
+        "estacao": "Vila Sônia",
+        "tempo_dijkstra": 21,
+        "tempo_a_estrela": 21,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 5
+    },
+    {
+        "estacao": "Terminal Vila Sônia",
+        "tempo_dijkstra": 24,
+        "tempo_a_estrela": 24,
+        "mesmo_custo": true,
+        "nos_expandidos_a_estrela": 6
+    }
+]
