@@ -169,7 +169,7 @@ Execute:
 
 1. Clone ou baixe o repositório.
 2. Abra o arquivo `notebook.ipynb` no Jupyter Notebook ou Google Colab.
-3. Verifique se os arquivos CSV necessários estão disponíveis nos caminhos utilizados pelo código.
+3. Verifique se os arquivos CSV necessários estão disponíveis nos caminhos utilizados pelo código. (escadas.csv e leitura_sensores.csv)
 4. Execute as células na ordem apresentada.
 5. Consulte os resultados, tabelas e gráficos gerados.
 
@@ -179,13 +179,10 @@ O notebook disponibilizado no repositório deverá conter todas as células prev
 
 | Arquivo | Descrição |
 |---|---|
-| `notebook.ipynb` | Implementação e resultados dos experimentos |
+| `checkpoint_dynamic_programming.ipynb` | Implementação e resultados dos experimentos |
 | `README.md` | Documentação da aplicação |
 | `escadas.csv` | Cadastro das escadas e suas estações |
 | `leituras_sensores.csv` | Dados simulados dos sensores |
-| `rede_vertices.csv` | Representação dos vértices do grafo |
-| `rede_arestas.csv` | Conexões e tempos estimados |
-| `plano_manutencao.csv` | Planejamento dos atendimentos |
 | `comparacao_rotas.csv` | Comparação das rotas obtidas |
 | `comparacao_algoritmos.csv` | Comparação entre A* e Dijkstra |
 | `resumo_turno.csv` | Resumo do turno planejado |
